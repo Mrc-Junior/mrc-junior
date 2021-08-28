@@ -65,6 +65,8 @@
 - [x] Leitura.
 - [x] Team work.
 - [X] Web development technologies.
+- [X] Unity development
+- [X] Game development
 
 ---
 
