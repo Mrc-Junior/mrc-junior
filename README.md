@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/BManduca/BManduca/blob/main/assets/user.png" width="300"/>
 
 <h1 align="center"> 
-  Marco Junior <img src="https://github.com/BManduca/BManduca/blob/main/assets/Hi.gif" width="30px"> <br> Hi, I´m a Back-end Developer 🛠
+  Marco Junior <img src="https://github.com/BManduca/BManduca/blob/main/assets/Hi.gif" width="30px"> <br> Hi, I´m a Front-end and Back-end Developer 🛠
 </h1>
 
 <p align="center">
