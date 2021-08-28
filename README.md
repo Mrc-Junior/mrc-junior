@@ -35,6 +35,10 @@
 
 ### :mortar_board: Formação acadêmica
   - Ciências da computação / UNIP - SP
+  - Técnico em Informatica / SENAC - SP
+  - Inglês Intermediário / Wiseup
+  - Programação orientada a objetos / Alura
+  - Programação Front End / Rocketseat
 
 ---
 
