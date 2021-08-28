@@ -20,7 +20,7 @@
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-junior-67225920b/">
   </a>
 
-  <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643">
+  <a href="https://app.rocketseat.com.br/me/marco-junior-1569770352">
     <img alt="Stargazers" src="https://img.shields.io/badge/Blog-Rocketseat-%237159c1?style=flat&logo=ghost">
   </a>  
   
