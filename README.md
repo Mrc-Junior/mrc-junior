@@ -34,10 +34,10 @@
 ---
 
 ### :mortar_board: Formação acadêmica
-  - Ciências da computação / UNIP - SP
-  - Técnico em Informatica / SENAC - SP
-  - Inglês Intermediário / Wiseup
-  - Programação orientada a objetos / Alura
+  - Ciências da computação / Unimetrocamp - SP [Cursando]
+  - Técnico em Informatica / SENAC - SP [Cursando]
+  - Inglês Intermediário / Wiseup e particulares
+  - Programação orientada a objetos / C# in Alura
   - Programação Front End / Rocketseat
 
 ---
@@ -46,7 +46,7 @@
 
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] Estudante de Ciêcias da computação *UNIP - SP*.
+- [x] Estudante de Ciêcias da computação *Unimetrocamp - SP*.
 - [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **back-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
