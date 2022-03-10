@@ -9,14 +9,14 @@
     <img alt="Me envie um email" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrjuniordx@gmail.com">
   </a>
   
-  <a href="https://twitter.com/mrc-junior">
+  <a href="https://twitter.com/mrjuuhdx">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/BrunnoPrr">
   </a>
 
-   <a href="https://instagram.com/mrjunior" alt="Instagram">
+   <a href="https://instagram.com/mrcjuuh" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/mrjuniordx"/>   </a>
 
-  <a href="https://www.linkedin.com/in/marco-junior-67225920b/">
+  <a href="https://www.linkedin.com/in/mrcjuuh/">
     <img alt="Siga no Linkedin" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-junior-67225920b/">
   </a>
 
