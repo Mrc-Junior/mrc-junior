@@ -37,8 +37,7 @@
   - Ciências da computação / Unimetrocamp - SP [Cursando]
   - Técnico em Informatica / SENAC - SP [Cursando]
   - Inglês Intermediário / Wiseup e particulares
-  - Programação orientada a objetos / C# in Alura
-  - Programação Front End / Rocketseat
+  - Desenvolvedor FullStack - Rocketseat
 
 ---
 
@@ -57,7 +56,6 @@
 
 <h2> Predileção: </h2>
 
-- [x] Café.
 - [x] Networking e comunidade.
 - [x] Pesquisa.
 - [x] Programação.
@@ -65,8 +63,7 @@
 - [x] Leitura.
 - [x] Team work.
 - [X] Web development technologies.
-- [X] Unity development
-- [X] Game development
+- [X] Game development for future
 
 ---
 
