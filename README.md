@@ -80,30 +80,18 @@
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<br>
----
-
-<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></p>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="20" height="20"/>
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
-
 <div align="center">  
   <h2>Networking: </h2>
   
-  <a href="https://instagram.com/brunnomanduca" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/instagram-new.png" target="_blank"></a>
-  <a href="https://twitter.com/BrunnoPrr" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png" target="_blank"></a>
-  <a href = "mailto:brunnomanducarfe@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunno-manduca-b97080118/" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/linkedin.png" target="_blank"></a>
-  <a href="https://app.rocketseat.com.br/me/brunno-manduca-1567308643" target="_blank"><img src="https://img.icons8.com/nolan/64/launchpad.png" target="_blank"></a>
+  <a href="https://www.instagram.com/mcjuudx/" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/instagram-new.png" target="_blank"></a>
+  <a href = "mailto:mrjuniordx@gmail.com"><img src="https://img.icons8.com/fluent/64/000000/gmail.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mrcjuuh/" target="_blank"><img src="https://img.icons8.com/fluent/64/000000/linkedin.png" target="_blank"></a>
+  <a href="https://app.rocketseat.com.br/me/marco-junior-1569770352" target="_blank"><img src="https://img.icons8.com/nolan/64/launchpad.png" target="_blank"></a>
 </div>
 
-<p align="center" href="https://github.com/BManduca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BManduca&count_private=true&theme=radical&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&layout=compact" />
+<p align="center" href="https://github.com/Mrc-Junior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrc-Junior&count_private=true&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrc-Junior&theme=radical&layout=compact" />
 </p>
 
 
