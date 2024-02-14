@@ -98,7 +98,7 @@
 
 <h2> Commits </h2>
 
-![Snake animation](https://github.com/BManduca/BManduca/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mrc-Junior/Mrc-Junior/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
