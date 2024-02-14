@@ -34,10 +34,12 @@
 ---
 
 ### :mortar_board: Formação acadêmica
-  - Ciências da computação / Unimetrocamp - SP [Cursando]
-  - Técnico em Informatica / SENAC - SP [Cursando]
+  - Ciências da computação / Unimetrocamp - SP
+  - Técnico em Informatica / SENAC - SP
   - Inglês Intermediário / Wiseup e particulares
-  - Desenvolvedor FullStack - Rocketseat
+  - Desenvolvedor Front-End - Rocketseat
+  - Desenvolvedor Node.Js - Rocketseat
+  - Desenvolvedor React and React Native - Rocketseat
 
 ---
 
@@ -46,7 +48,7 @@
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
 - [x] Estudante de Ciêcias da computação *Unimetrocamp - SP*.
-- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **back-end**.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **back-end** and **front-end**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 - [x] **Idiomas**: *Português(nativo) e inglês(intermediário)*.
@@ -74,27 +76,14 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![image](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![image](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![image](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![image](https://img.shields.io/badge/Csharp-F05032?style=for-the-badge&logo=csharp&logoColor=white)
-
-<br>
-
-**Pretendo dominar:** <br>
 ![image](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![image](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![image](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
+<br>
 ---
 
-<!-- <p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></p>
+<p align="left"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/></p>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
@@ -117,7 +106,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&layout=compact" />
 </p>
 
--->
+
 
 <h2> Commits </h2>
 
