@@ -104,27 +104,3 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
----
-
-<h2>Stats:</h2>
-
-<!--
-![Brunno github stats](https://github-readme-stats.vercel.app/api?username=BManduca&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BManduca&theme=radical&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<p align="center">
-  <table align='center'>
-    <row>
-      <td>
-       <!--Card-->
-        <img height='172' src='https://github-readme-stats.vercel.app/api/top-langs/?username=mrc-junior&layout=compact&theme=dark'>
-      </td>
-      <td>
-        <img height='172' src='https://github-readme-stats.vercel.app/api?username=mrc-junior&show_icons=true&theme=dark'>
-      </td>
-    </row>
-  </table>
-</p>
-
