@@ -34,12 +34,15 @@
 ---
 
 ### :mortar_board: Formação acadêmica
-  - Ciências da computação / Unimetrocamp - SP
+  - Ciências da computação / UNIP - SP (Cursando)
   - Técnico em Informatica / SENAC - SP
-  - Inglês Intermediário / Wiseup e particulares
-  - Desenvolvedor Front-End - Rocketseat
-  - Desenvolvedor Node.Js - Rocketseat
-  - Desenvolvedor React and React Native - Rocketseat
+  - Inglês Intermediário
+  - Formação Back-end Mobile (Rocketseat)
+  - Formação Back-end PHP | Laravel (Rocketseat)
+  - Formação Back-end Node.Js (Rocketseat)
+  - Formação Fullstack (Rocketseat)
+  - Formação Next.JS (Rocketseat)
+  - Formação em Data Analytics (Rocketseat) 
 
 ---
 
@@ -47,12 +50,12 @@
 
  #Busco *aprender*, *conquistar*, *pesquisar*, *registrar* todo meu conhecimento e *desenvolvimento* e também compartilhar.
 
-- [x] Estudante de Ciêcias da computação *Unimetrocamp - SP*.
-- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **back-end** and **front-end**.
+- [x] Estudante de Ciêcias da computação *UNIP - SP*.
+- [x] Sou um entusiasta do desenvolvimento e da tecnologia, hoje com foco em tecnologias que envolvem o **back-end** , **front-end** & desenvolvimento **mobile**.
 - [x] Busco trocar o termo *dificuldade* por *desafio*.
 - [x] Gosto de *iniciar/criar* projetos, *alterar* e *inovar*.
 - [x] **Idiomas**: *Português(nativo) e inglês(intermediário)*.
-- [x] **Áreas**: *Startup, Inovação, Pesquisa, Back-end, Develop, Atividade física, música*.
+- [x] **Áreas**: *Startup, Inovação, Pesquisa, Back-end, Data Analytics, UI/UX, Mobile, Deploy de grandes desafios*.
 
 ---
 
@@ -61,11 +64,9 @@
 - [x] Networking e comunidade.
 - [x] Pesquisa.
 - [x] Programação.
-- [x] Back-end.
+- [x] Desenvolvimento Fullstack.
 - [x] Leitura.
 - [x] Team work.
-- [X] Web development technologies.
-- [X] Game development for future
 
 ---
 
